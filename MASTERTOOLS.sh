@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 sleep 1
 command clear
 toilet -f future "Coded by SHYLEKH" | lolcat
