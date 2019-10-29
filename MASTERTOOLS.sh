@@ -11,6 +11,7 @@ echo
 echo
 echo "===========================================" | lolcat
 echo "Coded by SHYLEKH" | lolcat
+echo "Follow me on insta: gho57_x" | lolcat
 echo "Creadits for all this tools CYBER KALLAN" | lolcat
 echo "===========================================" | lolcat
 sleep 1
